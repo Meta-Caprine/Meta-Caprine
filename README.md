@@ -10,9 +10,16 @@
 
 **English:**
 
-**MetaCaprine** is a goat farm in Venezuela dedicated to modern, data-driven livestock production. We've developed a comprehensive web platform for goat/dairy production management, simulation, and decision-making with scientific breed comparison capabilities.
+**MetaCaprine** by Richard Mendoza is a consulting and educational organization dedicated to transforming goat farming into profitable, sustainable businesses across Latin America and the world. We connect strategy, innovation, and execution to help producers and investors succeed in the caprine industry.
 
-Our platform helps goat farmers make informed decisions about production, breeding, and profitability through advanced analytics and scientific calculations.
+We've developed a comprehensive web platform (MetaCaprine Intelligence System) for goat/dairy production management, simulation, and decision-making with scientific breed comparison capabilities. Our platform helps goat farmers make informed decisions about production, breeding, and profitability through advanced analytics and scientific calculations.
+
+**Services:**
+- Executive Mentorship
+- Caprine Project Management
+- Genetics & Productive Identity Consulting
+- Educational Resources & Training
+- Book: "CAPRINOCULTURA: Un Modelo de Negocio" (Available on Amazon)
 
 **Visit our website:** [https://metacaprine.com](https://metacaprine.com)
 
@@ -20,9 +27,16 @@ Our platform helps goat farmers make informed decisions about production, breedi
 
 **Español:**
 
-**MetaCaprine** es una granja caprina en Venezuela dedicada a la producción ganadera moderna basada en datos. Hemos desarrollado una plataforma web integral para la gestión, simulación y toma de decisiones en la producción caprina/lechera con capacidades de comparación científica de razas.
+**MetaCaprine** por Richard Mendoza es una organización de consultoría y educación dedicada a transformar la cría caprina en negocios rentables y sostenibles en América Latina y el mundo. Conectamos estrategia, innovación y ejecución para ayudar a productores e inversionistas a tener éxito en la industria caprina.
 
-Nuestra plataforma ayuda a los productores caprinos a tomar decisiones informadas sobre producción, cría y rentabilidad a través de análisis avanzados y cálculos científicos.
+Hemos desarrollado una plataforma web integral (Sistema de Inteligencia MetaCaprine) para la gestión, simulación y toma de decisiones en la producción caprina/lechera con capacidades de comparación científica de razas. Nuestra plataforma ayuda a los productores caprinos a tomar decisiones informadas sobre producción, cría y rentabilidad a través de análisis avanzados y cálculos científicos.
+
+**Servicios:**
+- Mentoría Ejecutiva
+- Gestión de Proyectos Caprinos
+- Consultoría en Genética e Identidad Productiva
+- Recursos Educativos y Capacitación
+- Libro: "CAPRINOCULTURA: Un Modelo de Negocio" (Disponible en Amazon)
 
 **Visita nuestro sitio web:** [https://metacaprine.com](https://metacaprine.com)
 
@@ -173,35 +187,61 @@ Nuestro Sistema de Inteligencia MetaCaprine está completamente operativo y se e
 
 ## 📍 Location / Ubicación
 
-🇻🇪 **Venezuela** - Dedicated to advancing goat farming practices in Latin America / Dedicados a avanzar en las prácticas de cría caprina en América Latina
+🇻🇪 **Venezuela / Latin America** - Serving producers and investors across Latin America and the world / Sirviendo a productores e inversionistas en América Latina y el mundo
+
+## 📚 Book / Libro
+
+**English:**
+
+**"CAPRINOCULTURA: Un Modelo de Negocio"** - The Goat Farm with Purpose, Profitable and Sustainable.
+
+Transform your physical effort into a high-value commercial asset. Learn how to stop being a "livestock holder" and become a global caprine entrepreneur.
+
+[Buy on Amazon](https://www.amazon.com)
+
+**Español:**
+
+**"CAPRINOCULTURA: Un Modelo de Negocio"** - La Granja Caprina con Propósito, Rentable y Sostenible.
+
+Transforma tu esfuerzo físico en un activo comercial de alto valor. Aprende cómo dejar de ser un "tenedor de animales" para convertirte en un empresario caprino global.
+
+[Comprar en Amazon](https://www.amazon.com)
 
 ## 📧 Contact / Contacto
 
 **English:**
 - **Email**: [contac@metacaprine.com](mailto:contac@metacaprine.com)
+- **Phone**: +1 786 361-7195
 - **Website**: [https://metacaprine.com](https://metacaprine.com)
+- **Instagram**: [@metacaprine](https://instagram.com/metacaprine)
 
 **Español:**
 - **Correo**: [contac@metacaprine.com](mailto:contac@metacaprine.com)
+- **Teléfono**: +1 786 361-7195
 - **Sitio Web**: [https://metacaprine.com](https://metacaprine.com)
+- **Instagram**: [@metacaprine](https://instagram.com/metacaprine)
 
 ## 🌐 Connect / Conectar
 
 **English:**
-- **Organization**: MetaCaprine Goat Farm
+- **Organization**: MetaCaprine by Richard Mendoza
 - **Website**: [https://metacaprine.com](https://metacaprine.com)
 - **Email**: [contac@metacaprine.com](mailto:contac@metacaprine.com)
-- **Location**: Venezuela
-- **Focus**: Livestock production management and scientific breed analysis
+- **Phone**: +1 786 361-7195
+- **Location**: Venezuela / Latin America
+- **Focus**: Caprine consulting, education, and sustainable business development
 - **Platform**: MetaCaprine Intelligence System
+- **Book**: [CAPRINOCULTURA: Un Modelo de Negocio](https://www.amazon.com) (Amazon)
 
 **Español:**
-- **Organización**: Granja Caprina MetaCaprine
+- **Organización**: MetaCaprine por Richard Mendoza
 - **Sitio Web**: [https://metacaprine.com](https://metacaprine.com)
 - **Correo**: [contac@metacaprine.com](mailto:contac@metacaprine.com)
-- **Ubicación**: Venezuela
-- **Enfoque**: Gestión de producción ganadera y análisis científico de razas
+- **Teléfono**: +1 786 361-7195
+- **Ubicación**: Venezuela / América Latina
+- **Enfoque**: Consultoría caprina, educación y desarrollo de negocios sostenibles
 - **Plataforma**: Sistema de Inteligencia MetaCaprine
+- **Libro**: [CAPRINOCULTURA: Un Modelo de Negocio](https://www.amazon.com) (Amazon)
 
 ---
 
@@ -222,6 +262,8 @@ Nuestro Sistema de Inteligencia MetaCaprine está completamente operativo y se e
 ---
 
 <div align="center">
-  <i>Empowering goat farmers in Venezuela and beyond with data-driven intelligence</i> 🐐🇻🇪<br>
-  <i>Empoderando a los productores caprinos en Venezuela y más allá con inteligencia basada en datos</i>
+  <i>Transforming goat farming into profitable, sustainable businesses</i> 🐐🇻🇪<br>
+  <i>Transformando la cría caprina en negocios rentables y sostenibles</i><br><br>
+  <i>Connecting strategy, innovation, and execution for caprine success</i><br>
+  <i>Conectando estrategia, innovación y ejecución para el éxito caprino</i>
 </div>
