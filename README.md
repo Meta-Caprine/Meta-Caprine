@@ -113,7 +113,7 @@ Our platform ranks 27 goat breeds based on their lifetime Energy Corrected Milk 
 
 | Rank | Breed | ECM Vida Productiva | Image |
 |------|-------|---------------------|-------|
-| 🥇 | **Dutch** | **7,034 kg** | <img src="https://raw.githubusercontent.com/Meta-Caprine/MetaCaprine/main/client/public/breeds/Dutch.png" width="50" height="50" alt="Dutch" /> |
+| 🥇 | **Dutch** | **7,034 kg** | <img src="https://github.com/Meta-Caprine/MetaCaprine/tree/main/client/public/breeds/breeds/Dutch.png" width="50" height="50" alt="Dutch" /> |
 | 🥈 | **Saanen Americana** | **7,019 kg** | <img src="https://raw.githubusercontent.com/Meta-Caprine/MetaCaprine/main/client/public/breeds/SAANENAmericana.png" width="50" height="50" alt="Saanen Americana" /> |
 | 🥉 | **Alpina Americana** | **6,525 kg** | <img src="https://raw.githubusercontent.com/Meta-Caprine/MetaCaprine/main/client/public/breeds/ALPINE.png" width="50" height="50" alt="Alpina Americana" /> |
 | 4 | **Alpina Francesa** | **6,039 kg** | <img src="https://raw.githubusercontent.com/Meta-Caprine/MetaCaprine/main/client/public/breeds/AlpineFrancesa.png" width="50" height="50" alt="Alpina Francesa" /> |
