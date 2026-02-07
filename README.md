@@ -113,13 +113,13 @@ Our platform ranks 27 goat breeds based on their lifetime Energy Corrected Milk 
 
 | Rank | Breed | ECM Vida Productiva | Image |
 |------|-------|---------------------|-------|
-| 🥇 | **Dutch** | **7,034 kg** | <img src="https://github.com/Meta-Caprine/MetaCaprine/tree/main/client/public/breeds/Dutch.png" width="50" height="50" alt="Dutch" /> |
-| 🥈 | **Saanen Americana** | **7,019 kg** | <img src="https://raw.githubusercontent.com/Meta-Caprine/MetaCaprine/main/client/public/breeds/SAANENAmericana.png" width="50" height="50" alt="Saanen Americana" /> |
-| 🥉 | **Alpina Americana** | **6,525 kg** | <img src="https://raw.githubusercontent.com/Meta-Caprine/MetaCaprine/main/client/public/breeds/ALPINE.png" width="50" height="50" alt="Alpina Americana" /> |
-| 4 | **Alpina Francesa** | **6,039 kg** | <img src="https://raw.githubusercontent.com/Meta-Caprine/MetaCaprine/main/client/public/breeds/AlpineFrancesa.png" width="50" height="50" alt="Alpina Francesa" /> |
-| 5 | **Saanen Francesa** | **6,039 kg** | <img src="https://raw.githubusercontent.com/Meta-Caprine/MetaCaprine/main/client/public/breeds/SaanenFrancesa.png" width="50" height="50" alt="Saanen Francesa" /> |
-| 6 | **LaMancha** | **5,779 kg** | <img src="https://raw.githubusercontent.com/Meta-Caprine/MetaCaprine/main/client/public/breeds/LAMANCHA.png" width="50" height="50" alt="LaMancha" /> |
-| 7 | **Alpina Británica** | **5,246 kg** | <img src="https://raw.githubusercontent.com/Meta-Caprine/MetaCaprine/main/client/public/breeds/BristishAlpine.png" width="50" height="50" alt="Alpina Británica" /> |
+| 🥇 | **Dutch** | **7,034 kg** | <img src="breeds/Dutch.png" width="50" height="50" alt="Dutch" /> |
+| 🥈 | **Saanen Americana** | **7,019 kg** | <img src="breeds/SAANENAmericana.png" width="50" height="50" alt="Saanen Americana" /> |
+| 🥉 | **Alpina Americana** | **6,525 kg** | <img src="breeds/ALPINE.png" width="50" height="50" alt="Alpina Americana" /> |
+| 4 | **Alpina Francesa** | **6,039 kg** | <img src="breeds/AlpineFrancesa.png" width="50" height="50" alt="Alpina Francesa" /> |
+| 5 | **Saanen Francesa** | **6,039 kg** | <img src="breeds/SaanenFrancesa.png" width="50" height="50" alt="Saanen Francesa" /> |
+| 6 | **LaMancha** | **5,779 kg** | <img src="breeds/LAMANCHA.png" width="50" height="50" alt="LaMancha" /> |
+| 7 | **Alpina Británica** | **5,246 kg** | <img src="breeds/BristishAlpine.png" width="50" height="50" alt="Alpina Británica" /> |
 
 *View the complete ranking of all 27 breeds on our platform: [https://metacaprine.com](https://metacaprine.com)*
 
@@ -129,13 +129,13 @@ Nuestra plataforma clasifica 27 razas caprinas según su producción de Leche Co
 
 | Posición | Raza | ECM Vida Productiva | Imagen |
 |----------|------|---------------------|--------|
-| 🥇 | **Dutch** | **7,034 kg** | <img src="https://raw.githubusercontent.com/Meta-Caprine/MetaCaprine/main/client/public/breeds/Dutch.png" width="50" height="50" alt="Dutch" /> |
-| 🥈 | **Saanen Americana** | **7,019 kg** | <img src="https://raw.githubusercontent.com/Meta-Caprine/MetaCaprine/main/client/public/breeds/SAANENAmericana.png" width="50" height="50" alt="Saanen Americana" /> |
-| 🥉 | **Alpina Americana** | **6,525 kg** | <img src="https://raw.githubusercontent.com/Meta-Caprine/MetaCaprine/main/client/public/breeds/ALPINE.png" width="50" height="50" alt="Alpina Americana" /> |
-| 4 | **Alpina Francesa** | **6,039 kg** | <img src="https://raw.githubusercontent.com/Meta-Caprine/MetaCaprine/main/client/public/breeds/AlpineFrancesa.png" width="50" height="50" alt="Alpina Francesa" /> |
-| 5 | **Saanen Francesa** | **6,039 kg** | <img src="https://raw.githubusercontent.com/Meta-Caprine/MetaCaprine/main/client/public/breeds/SaanenFrancesa.png" width="50" height="50" alt="Saanen Francesa" /> |
-| 6 | **LaMancha** | **5,779 kg** | <img src="https://raw.githubusercontent.com/Meta-Caprine/MetaCaprine/main/client/public/breeds/LAMANCHA.png" width="50" height="50" alt="LaMancha" /> |
-| 7 | **Alpina Británica** | **5,246 kg** | <img src="https://raw.githubusercontent.com/Meta-Caprine/MetaCaprine/main/client/public/breeds/BristishAlpine.png" width="50" height="50" alt="Alpina Británica" /> |
+| 🥇 | **Dutch** | **7,034 kg** | <img src="breeds/Dutch.png" width="50" height="50" alt="Dutch" /> |
+| 🥈 | **Saanen Americana** | **7,019 kg** | <img src="breeds/SAANENAmericana.png" width="50" height="50" alt="Saanen Americana" /> |
+| 🥉 | **Alpina Americana** | **6,525 kg** | <img src="breeds/ALPINE.png" width="50" height="50" alt="Alpina Americana" /> |
+| 4 | **Alpina Francesa** | **6,039 kg** | <img src="breeds/AlpineFrancesa.png" width="50" height="50" alt="Alpina Francesa" /> |
+| 5 | **Saanen Francesa** | **6,039 kg** | <img src="breeds/SaanenFrancesa.png" width="50" height="50" alt="Saanen Francesa" /> |
+| 6 | **LaMancha** | **5,779 kg** | <img src="breeds/LAMANCHA.png" width="50" height="50" alt="LaMancha" /> |
+| 7 | **Alpina Británica** | **5,246 kg** | <img src="breeds/BristishAlpine.png" width="50" height="50" alt="Alpina Británica" /> |
 
 *Ver el ranking completo de las 27 razas en nuestra plataforma: [https://metacaprine.com](https://metacaprine.com)*
 
