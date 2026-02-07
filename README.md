@@ -206,7 +206,17 @@ Nuestro Sistema de Inteligencia MetaCaprine está completamente operativo y se e
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Meta-Caprine&show_icons=true&theme=green&hide_border=true" alt="GitHub Stats" />
+  
+  <!-- Repository Link -->
+  <a href="https://github.com/Meta-Caprine/MetaCaprine">
+    <img src="https://img.shields.io/badge/View%20Main%20Repository-MetaCaprine-green?style=for-the-badge&logo=github" alt="View Repository" />
+  </a>
+  
+  <!-- Website Link -->
+  <a href="https://metacaprine.com">
+    <img src="https://img.shields.io/badge/Visit%20Website-metacaprine.com-blue?style=for-the-badge" alt="Visit Website" />
+  </a>
+  
 </div>
 
 ---
