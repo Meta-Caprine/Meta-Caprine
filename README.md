@@ -139,11 +139,22 @@ Nuestro Sistema de Inteligencia MetaCaprine está completamente operativo y se e
 
 🇻🇪 **Venezuela** - Dedicated to advancing goat farming practices in Latin America / Dedicados a avanzar en las prácticas de cría caprina en América Latina
 
+## 📧 Contact / Contacto
+
+**English:**
+- **Email**: [contac@metacaprine.com](mailto:contac@metacaprine.com)
+- **Website**: [https://metacaprine.com](https://metacaprine.com)
+
+**Español:**
+- **Correo**: [contac@metacaprine.com](mailto:contac@metacaprine.com)
+- **Sitio Web**: [https://metacaprine.com](https://metacaprine.com)
+
 ## 🌐 Connect / Conectar
 
 **English:**
 - **Organization**: MetaCaprine Goat Farm
 - **Website**: [https://metacaprine.com](https://metacaprine.com)
+- **Email**: [contac@metacaprine.com](mailto:contac@metacaprine.com)
 - **Location**: Venezuela
 - **Focus**: Livestock production management and scientific breed analysis
 - **Platform**: MetaCaprine Intelligence System
@@ -151,6 +162,7 @@ Nuestro Sistema de Inteligencia MetaCaprine está completamente operativo y se e
 **Español:**
 - **Organización**: Granja Caprina MetaCaprine
 - **Sitio Web**: [https://metacaprine.com](https://metacaprine.com)
+- **Correo**: [contac@metacaprine.com](mailto:contac@metacaprine.com)
 - **Ubicación**: Venezuela
 - **Enfoque**: Gestión de producción ganadera y análisis científico de razas
 - **Plataforma**: Sistema de Inteligencia MetaCaprine
